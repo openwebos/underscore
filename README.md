@@ -1,14 +1,14 @@
-underscore
-
+Underscore
+==========
 Summary
-
+-------
 Underscore.js is a utility-belt library for JavaScript.
 
 Description 
-
+----------- 
 The underscore loadable framework provided in Open webOS uses version 0.6 of the opensource module found in https://github.com/documentcloud/underscore. It contains index.html and manifest.js to make it work with Open webOS.
 
-Copyright and License Information
+# Copyright and License Information
 
 All content, including all source code files and documentation files in this repository except otherwise noted are:
 
@@ -19,5 +19,3 @@ All content, including all source code files and documentation files in this rep
 http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
-
